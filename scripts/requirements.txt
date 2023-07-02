@@ -1,0 +1,7 @@
+pyopengl
+pyqt5==5.14
+pyqtgraph
+numpy
+pyquery
+pyserial
+python-can
